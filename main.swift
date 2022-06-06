@@ -92,11 +92,11 @@ var numeros = [80, 90, 70]
 var todosNum = arrayOne + numeros
 print(todosNum)
 
-/*print(arrayTree.first!)
+print(arrayTree.first!)
 print(arrayTree.last!)
 print(arrayTree.count)
 print(arrayTwo.append(70))
-print(arrayTwo)*/
+print(arrayTwo)
 
 
 
